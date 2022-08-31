@@ -1,3 +1,13 @@
+/* Add a font style*/
+
+@font-face {
+    font-family: "Lato";
+    font-style: "Regular";
+    font-weight: 400;
+    src: local(Lato),
+         url(/fonts/Lato-Regular.ttf) format(ttf)
+        }
+
 /* minireset.css v0.0.3 | MIT License | github.com/jgthms/minireset.css */
 html,
 body,
@@ -80,4 +90,14 @@ td,
 th {
     padding: 0;
     text-align: left;
+}
+
+
+.body {
+    font-family: 'Lato';
+    font-style: normal;
+}
+
+.container {
+    padding: 0 calc(50% - 1140px / 2);
 }

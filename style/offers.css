@@ -1,0 +1,78 @@
+.offers__wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 29px;
+}
+.women-offer {
+    flex-grow: 1;
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    padding-right: 30px;
+    
+}
+.women-offer__text {
+    display: flex;
+    flex-direction: column;
+    top: 105px;
+    left: 103px;
+    
+}
+
+.offers__subtitle {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    position: absolute;
+}
+
+
+.offers__title {
+    color: #F16D7F;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.men-offer {
+    flex-grow: 1;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    padding-right: 30px;
+}
+
+.men-offer__text { 
+    display: flex;
+    flex-direction: column;
+    top: 105px;
+    left: 125px;
+    
+}
+
+.kids-offer {
+    flex-grow: 1;
+    text-align: center;
+    position: relative;
+}
+
+.kids-offer__text {
+    display: flex;
+    flex-direction: column;
+    top: 105px;
+    left: 123px;
+}
+
+.accesories-offer {
+    flex-grow: 1;
+    text-align: center;
+    position: relative;
+    margin-bottom: 96px;
+}
+.accesories-offer__text {
+    display: flex;
+    flex-direction: column;
+    top: 65px;
+    left: 490px;
+}
