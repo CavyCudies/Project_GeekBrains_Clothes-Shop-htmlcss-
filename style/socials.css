@@ -1,0 +1,8 @@
+.socials {
+    padding-top: 24px;
+    display: flex;
+    justify-content: space-between;
+}
+.socials__icon {
+    padding-left: 7.25px;
+}

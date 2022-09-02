@@ -1,28 +1,31 @@
 .header {
     background-color: #F1E4E6;
     display: flex;
-    justify-content: space-between;  
+    flex-direction: row; 
     margin-bottom: 65px;
-}
-
-.header__content {
-    background: url(../image/header_man_photo.png) left no-repeat;
     height: 764px;
-    display: flex;
+
+}
+.header__pic {
     margin-left: -230px;
-    flex-grow: 1;
-    flex-direction: row-reverse;   
+    margin-right: 38px;
+
 }
 
-.content-vector {
-    padding-top: 293px;
+.header__vector {
+    border: 1px solid #F16D7F;
+    background-color: #F16D7F;
+    width: 12px;
+    height: 92px;
+    margin-top: 295px;
     margin-right: 16px;
 
 }
+
 .header__info {
+    padding-top: 290px;   
+    display: flex;
     flex-direction: column;
-    padding-top: 290px;
-    margin-right: 108px;
 }
 
 .header__title {
