@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #222222;
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 18px;
+}
+
+.navbar__link-home {
+    margin-right: 41px;
+}
+
+.navbar__link-profile {
+    margin-right: 33px;
+}
+.navbar__link-hamburger {
+    margin-right: 33px;
+}

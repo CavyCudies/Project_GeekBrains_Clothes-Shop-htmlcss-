@@ -1,0 +1,37 @@
+.offer {
+    display: flex;
+    flex-grow: 1;
+    text-align: center;
+    position: relative;
+    width: 33.3%;
+}
+
+.offer_width {
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 1;
+    text-align: center;
+    position: relative;
+    width: 33.3%;
+    padding-top: 30px;
+}
+
+.offer__image {
+    width: 100%;
+}
+
+.offer__image_men {
+    padding-right: 30px;
+}
+
+.offer__image_woomen {
+    padding-right: 30px;
+}
+
+.offer__text {
+    display: flex;
+    flex-direction: column;
+    position: absolute; 
+    width: 100%;
+    align-self: center;
+}

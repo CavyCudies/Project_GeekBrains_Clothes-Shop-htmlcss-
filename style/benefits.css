@@ -1,0 +1,8 @@
+.footer {
+    background-color: #222224;
+}
+
+.benefits__cards { 
+    display: flex;
+    justify-content: space-between;
+}

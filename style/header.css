@@ -1,0 +1,48 @@
+.header {
+    background-color: #F1E4E6;
+    display: flex;
+    flex-direction: row; 
+    margin-bottom: 65px;
+    height: 764px;
+
+}
+.header__pic {
+    margin-left: -230px;
+    margin-right: 38px;
+
+}
+
+.header__vector {
+    border: 1px solid #F16D7F;
+    background-color: #F16D7F;
+    width: 12px;
+    height: 92px;
+    margin-top: 295px;
+    margin-right: 16px;
+
+}
+
+.header__info {
+    padding-top: 290px;   
+    display: flex;
+    flex-direction: column;
+}
+
+.header__title {
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 58px;
+}
+
+.header__subtitle {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+.header__subtitle_pink-word {
+    color: #F16D7F;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 44px;
+}
