@@ -1,0 +1,17 @@
+.input {
+    border: 1px solid #E1E1E1; 
+    border-top-left-radius: 22px;
+    border-bottom-left-radius: 22px;
+    width: 256px;
+    height: 49px;
+    background-color: #E1E1E1;
+    padding-left: 22px;
+}
+
+.input::placeholder {
+    color: #222224;
+    font-size: 14px;
+    line-height: 17px;
+    opacity: 0.67;
+    align-items: center;
+}

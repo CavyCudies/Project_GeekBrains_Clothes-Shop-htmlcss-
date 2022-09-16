@@ -1,3 +1,22 @@
 .subscribe-form {
     display: flex;  
+    padding-top: 27px;
+}
+
+.subscribe-form__btn {
+    border: 1px solid #F16D7F; 
+    border-top-right-radius: 22px;
+    border-bottom-right-radius: 22px;
+    width: 100px;
+    height: 49px;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #F16D7F;
+    color: #FFFFFF;
+    padding-left: 15px;   
 }

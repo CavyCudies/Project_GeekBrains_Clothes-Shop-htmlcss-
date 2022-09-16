@@ -1,3 +1,7 @@
+.footer {
+    background-color: #222224;
+}
+
 .footer__bottom {
     background-color: #222224;
     display: flex;

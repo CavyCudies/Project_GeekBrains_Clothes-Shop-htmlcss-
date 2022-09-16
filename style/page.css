@@ -1,11 +1,35 @@
 /* Add a font style*/
 
 @font-face {
-    font-family: "Lato";
-    font-style: "Regular";
-    font-weight: 400;
-    src: local(Lato),
-         url(/fonts/Lato-Regular.ttf) format(ttf)
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Lato'),
+         url('../fonts/Lato-Regular_400.ttf') format('ttf'),
+        }
+
+@font-face {
+    font-family: 'Lato-Light';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Lato-Light'),
+         url('../fonts/Lato-Light_300.ttf') format('ttf'),
+        }
+
+@font-face {
+    font-family: 'Lato-Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Lato-Bold'),
+         url('../fonts/Lato-Bold_700.ttf') format('ttf'),
+        }
+
+@font-face {
+    font-family: 'Lato-Black';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Lato-Black'),
+         url('../fonts/Lato-Black_900.ttf') format('ttf'),
         }
 
 /* minireset.css v0.0.3 | MIT License | github.com/jgthms/minireset.css */
@@ -96,56 +120,11 @@ th {
 .body {
     font-family: 'Lato';
     font-style: normal;
+    font-weight: 400;
 }
 
 .container {
     padding: 0 calc(50% - 1140px / 2);
-}
-
-.btn {
-    border: 1px solid #F16D7F; 
-    border-top-right-radius: 22px;
-    border-bottom-right-radius: 22px;
-    width: 100px;
-    height: 49px;
-    text-decoration: none;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 17px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    background-color: #F16D7F;
-    color: #FFFFFF;
-    padding-left: 22px;   
-}
-
-.btn-link {
-    border: 1px solid#FF6A6A;
-    padding: 14.5px 38.5px;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 19px;
-    color: #F26376;
-    text-decoration: none;
-}
-
-.input {
-    border: 1px solid #E1E1E1; 
-    border-top-left-radius: 22px;
-    border-bottom-left-radius: 22px;
-    width: 256px;
-    height: 49px;
-    background-color: #E1E1E1;
-    padding-left: 22px;
-}
-
-.input::placeholder {
-    color: #222224;
-    font-size: 14px;
-    line-height: 17px;
-    opacity: 0.67;
-    align-items: center;
 }
 
 .copy {

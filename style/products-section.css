@@ -1,4 +1,4 @@
-.product__title {
+.products-section__title {
     font-weight: 400;
     font-size: 30px;
     line-height: 36px;
@@ -7,7 +7,7 @@
     margin-bottom: 6px;
 }
 
-.product__subtitle {
+.products-section__subtitle {
     font-weight: 400;
     font-size: 14px;
     line-height: 17px;
@@ -16,14 +16,9 @@
     margin-bottom: 48px;
 }
 
-.product__cards {
+.products-section__cards {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-}
-
-.product__btn-all-product {
-    padding-top: 33px;
-    text-align: center;
-    margin-bottom: 95.5px;
+    margin-bottom: 18.5px;
 }

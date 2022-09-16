@@ -3,7 +3,7 @@
 @import url("./header.css");
 @import url("./offers.css");
 @import url("./offer.css");
-@import url("./product.css");
+@import url("./products-section.css");
 @import url("./product-card.css");
 @import url("./benefits.css");
 @import url("./benefits-card.css");
@@ -11,5 +11,11 @@
 @import url("./subscribe-block.css");
 @import url("./subscribe-form.css");
 @import url("./blockquote.css");
-@import url("./footer__bottom.css");
+@import url("./footer.css");
 @import url("./socials.css");
+@import url("./btn.css");
+@import url("./input.css");
+@import url("./header-breadcrumbs.css");
+@import url("./breadcrumbs.css");
+@import url("./filter.css");
+@import url("./pagination.css");
