@@ -6,7 +6,7 @@
 @import url("./products-section.css");
 @import url("./product-card.css");
 @import url("./benefits.css");
-@import url("./benefits-card.css");
+@import url("./benefit-card.css");
 @import url("./subscribe.css");
 @import url("./subscribe-block.css");
 @import url("./subscribe-form.css");
@@ -19,3 +19,7 @@
 @import url("./breadcrumbs.css");
 @import url("./filter.css");
 @import url("./pagination.css");
+@import url("./facebook.css");
+@import url("./instagram.css");
+@import url("./twitter.css");
+@import url("./peinterest.css");

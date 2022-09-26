@@ -5,14 +5,14 @@
 
 .subscribe-block__title {
     font-weight: 700;
-    font-size: 24px;
+    font-size: 1.71rem;
     color: #222224;
     text-align: center;
 }
 
-.subscribe-block__title--small {
+.subscribe-block__title_size_small {
     font-weight: 400;
-    font-size: 18px;
+    font-size: 1.28rem;
     line-height: 15px;
     color: #222224;
     text-align: center;

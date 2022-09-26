@@ -6,7 +6,7 @@
     height: 764px;
 }
 
-.header__vector {
+.header__decoration-line{
     border: 6px solid #F16D7F;
     background-color: #F16D7F;
     height: 92px;
@@ -22,20 +22,20 @@
 }
 
 .header__title {
-    font-size: 48px;
+    font-size: 3.43rem;
     width: 377px;
     color: #222222;
     font-weight: 900;
 }
 
 
-.header__title-small { 
+.header__title_size_small { 
     font-weight: 700;
-    font-size: 32px;
+    font-size: 2.29rem;
     color: #222222;
 }
 
-.header__title-small_pink-word {
+.header__title_color_pink {
     color: #F16D7F;
     line-height: 44px;
     font-weight: 700;

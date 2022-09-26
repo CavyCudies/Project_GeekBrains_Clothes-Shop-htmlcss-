@@ -5,7 +5,7 @@
     font-style: normal;
     font-weight: normal;
     src: local('Lato'),
-         url('../fonts/Lato-Regular_400.ttf') format('ttf'),
+         url('../fonts/Lato-Regular.ttf') format('ttf'),
         }
 
 @font-face {
@@ -13,7 +13,7 @@
     font-style: normal;
     font-weight: 300;
     src: local('Lato-Light'),
-         url('../fonts/Lato-Light_300.ttf') format('ttf'),
+         url('../fonts/Lato-Light.ttf') format('ttf'),
         }
 
 @font-face {
@@ -21,7 +21,7 @@
     font-style: normal;
     font-weight: 700;
     src: local('Lato-Bold'),
-         url('../fonts/Lato-Bold_700.ttf') format('ttf'),
+         url('../fonts/Lato-Bold.ttf') format('ttf'),
         }
 
 @font-face {
@@ -29,7 +29,7 @@
     font-style: normal;
     font-weight: 900;
     src: local('Lato-Black'),
-         url('../fonts/Lato-Black_900.ttf') format('ttf'),
+         url('../fonts/Lato-Black.ttf') format('ttf'),
         }
 
 /* minireset.css v0.0.3 | MIT License | github.com/jgthms/minireset.css */
@@ -121,6 +121,7 @@ th {
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
+    font-size: 14px;
 }
 
 .container {
@@ -129,9 +130,12 @@ th {
 
 .copy {
     font-weight: 400;
-    font-size: 16px;
     line-height: 19px;
     color: #FBFBFB;
     padding-top: 30px;
     margin-bottom: 30px;
+}
+
+html {
+    font-size: 14px;
 }

@@ -6,13 +6,13 @@
     padding-top: 18px;
 }
 
-.navbar__link-home {
+.navbar__link_home {
     margin-right: 41px;
 }
 
-.navbar__link-profile {
+.navbar__link_profile {
     margin-right: 33px;
 }
-.navbar__link-hamburger {
+.navbar__link_hamburger {
     margin-right: 33px;
 }

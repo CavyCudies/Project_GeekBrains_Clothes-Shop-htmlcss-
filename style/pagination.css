@@ -20,17 +20,17 @@
 .pagination__link {
     text-decoration: none;
     font-weight: 300;
-    font-size: 16px;
+    font-size: 1.14rem;
     line-height: 19px;
     color: #C4C4C4;
     margin-right: 5px;
 }
 
-.pagination__link--active {
+.pagination__link_active {
     color: #EF5B70;
 }
 
-.pagination__link--bold {
+.pagination__link_bold {
     color: #000000;
     margin-right: 17px;
 }

@@ -8,21 +8,24 @@
     content: "/";
     margin-right: 5px;
     font-weight: 300;
+}
 
+.breadcrumbs__item_active::after {
+    content: none;
 }
 
 .breadcrumbs__link {
     margin-right: 5px;
     font-weight: 300;
-    font-size: 14px;
+    font-size: 1rem;
     line-height: 17px;
     color: #636363;
     text-decoration: none; 
 }
 
-.breadcrumbs__link--active {
+.breadcrumbs__link_active {
     font-weight: 700;
-    font-size: 14px;
+    font-size: 1rem;
     line-height: 17px;
     color: #F16D7F;
     text-decoration: none; 
