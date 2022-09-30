@@ -1,6 +1,6 @@
 .subscribe-block {
-    padding-top: 150px;
-    margin-right: 97px;
+    padding-top: 9.375rem;
+    margin-right: 6.0625rem;
 }
 
 .subscribe-block__title {
@@ -13,7 +13,7 @@
 .subscribe-block__title_size_small {
     font-weight: 400;
     font-size: 1.28rem;
-    line-height: 15px;
+    line-height: 0.9375rem;
     color: #222224;
     text-align: center;
 }

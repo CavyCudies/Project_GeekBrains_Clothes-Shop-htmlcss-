@@ -12,31 +12,31 @@
     align-self: center;
 }
 
-.offer-card__title_color_pink {
+.offer-card__title_pink {
     color: #F16D7F;
     font-weight: 700;
     font-size: 1.71rem;
-    line-height: 29px;
+    line-height: 1.8125rem;
 }
 
-.offer-card__title_size_small {
+.offer-card__title_small {
     color: #FFFFFF;
     font-weight: 400;
     font-size: 1.14rem;
-    line-height: 19px;
+    line-height: 1.1875rem;
 }
 
 
 .offer-card_men {
     background: url('../image/Men-offer_pic.png') no-repeat center;
-    height: 260px;
-    margin-right: 30px;
+    height: 16.25rem;
+    margin-right: 1.875rem;
     background-size: cover;
 }
 
 .offer-card_women {
     background: url('../image/Women-offer_pic.png') no-repeat center;
-    margin-right: 30px;
+    margin-right: 1.875rem;
     background-size: cover;
 }
 
@@ -47,7 +47,7 @@
 }
 
 .offer-card_accesories {
-    margin-top: 30px;
-    height: 180px;
+    margin-top: 1.875rem;
+    height: 11.25rem;
     background: url('../image/accesories-offer_pic.png') no-repeat center;
 }

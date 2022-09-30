@@ -2,32 +2,36 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 360px;
+    width: 33%;
 }
 
 .benefit-card__icon {
-    padding-top: 104px;
-    margin-bottom: 25px;
+    margin-top: 6.4375rem;
+    margin-bottom: 1.5625rem;
+    fill: #F16D7F;
 }
 
 .benefit-card__icon_margin {
-    padding-top: 101px;
-    margin-bottom: 22px;
+    margin-top: 6.375rem;
+    margin-bottom: 1.3125rem;
+    fill: #F16D7F;
 }
 
 .benefit-card__title {
+    margin: auto;
     font-weight: 400;
     font-size: 1.43rem;
-    line-height: 24px;
+    line-height: 1.5rem;
     color: #FBFBFB; 
-    margin-bottom: 16px;
+    margin-bottom: 1rem;
 }
 
 .benefit-card__subtitle {
+    margin: auto;
     text-align: center;
-    margin-bottom: 104px;
+    margin-bottom: 6.5rem;
     font-weight: 300;
     font-size: 1rem;
-    line-height: 17px;
+    line-height: 1.0625rem;
     color: #FBFBFB;
 }

@@ -11,28 +11,28 @@
 .product-card__title {
     font-weight: 400;
     font-size: 0.93rem;
-    line-height: 16px;
+    line-height: 1rem;
     color: #000000;
-    margin-bottom: 12.65px;
-    padding-left: 18px;
+    margin-bottom: 0.7906rem;
+    padding-left: 1.125rem;
 
 }
 
 .product-card__subtitle {
     font-weight: 300;
     font-size: 1rem;
-    line-height: 17px;
+    line-height: 1.0625rem;
     color: #5D5D5D;
-    margin-bottom: 18px;
-    padding-left: 16.46px;
-    padding-right: 28.8px;
+    margin-bottom: 1.125rem;
+    padding-left: 1.0288rem;
+    padding-right: 1.8rem;
 }
 
 .product-card__price {
     font-weight: 400;
     font-size: 1.14rem;
-    line-height: 19px;
+    line-height: 1.1875rem;
     color: #F16D7F;
-    margin-bottom: 20px;
-    padding-left: 18px; 
+    margin-bottom: 1.25rem;
+    padding-left: 1.125rem; 
 }

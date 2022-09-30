@@ -1,12 +1,12 @@
 .breadcrumbs {
     display: flex;
     list-style-type: none;
-    padding-top: 65px;
+    padding-top: 5.0625rem;
 }
 
 .breadcrumbs__item::after {
     content: "/";
-    margin-right: 5px;
+    margin-right: 0.3125rem;
     font-weight: 300;
 }
 
@@ -15,10 +15,10 @@
 }
 
 .breadcrumbs__link {
-    margin-right: 5px;
+    margin-right: 0.3125rem;
     font-weight: 300;
     font-size: 1rem;
-    line-height: 17px;
+    line-height: 1.0625rem;
     color: #636363;
     text-decoration: none; 
 }
@@ -26,7 +26,7 @@
 .breadcrumbs__link_active {
     font-weight: 700;
     font-size: 1rem;
-    line-height: 17px;
+    line-height: 1.0625rem;
     color: #F16D7F;
     text-decoration: none; 
 }

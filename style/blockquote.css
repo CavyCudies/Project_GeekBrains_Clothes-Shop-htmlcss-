@@ -1,16 +1,16 @@
 .blockquote {
-    max-width: 360px;
+    max-width: 22.5rem;
     text-align: center;
 }
 
 .blockquote__avatar {
-    padding-top: 86.59px;
-    margin-bottom: 30px;
+    padding-top: 5.4119rem;
+    margin-bottom: 1.875rem;
 }
 
 .blockquote__text {
     font-weight: 400;
     font-size: 1.42rem;
-    line-height: 24px;
+    line-height: 1.5rem;
     color: #222224;
 }

@@ -2,41 +2,41 @@
     background: url('../image/header_man_photo.png') no-repeat calc(100% / 2 - 400px), #F1E4E6;
     display: flex;
     flex-direction: row; 
-    margin-bottom: 65px;
-    height: 764px;
+    margin-bottom: 4.0625rem;
+    height: 54.75rem;
 }
 
 .header__decoration-line{
-    border: 6px solid #F16D7F;
+    border: 0.375rem solid #F16D7F;
     background-color: #F16D7F;
-    height: 92px;
-    margin-top: 290px;
-    margin-left: 637px;
-    margin-right: 16px;
+    height: 5.75rem;
+    margin-top: 18.425rem;
+    margin-left: 39.8125rem;
+    margin-right: 1rem;
 }
 
 .header__info {
-    margin-top: 300px;
+    margin-top: 18.75rem;
     display: inline-block;
-    line-height: 38.4px;
+    line-height: 2.7rem;
 }
 
 .header__title {
     font-size: 3.43rem;
-    width: 377px;
+    width: 29.5625rem;
     color: #222222;
     font-weight: 900;
 }
 
 
-.header__title_size_small { 
+.header__title_small { 
     font-weight: 700;
     font-size: 2.29rem;
     color: #222222;
 }
 
-.header__title_color_pink {
+.header__title_pink {
     color: #F16D7F;
-    line-height: 44px;
+    line-height: 2.75rem;
     font-weight: 700;
 }

@@ -1,18 +1,52 @@
 .navbar {
     background-color: #222222;
-    height: 75px;
+    height: 4.6875rem;
+    padding-top: 1.125rem;
     display: flex;
     justify-content: space-between;
-    padding-top: 18px;
 }
 
-.navbar__link_home {
-    margin-right: 41px;
+.navbar__items {
+    display: flex;
 }
 
-.navbar__link_profile {
-    margin-right: 33px;
+.navbar__item_home {
+    margin-right: 2.56rem;
+    width: 2.75rem; 
+    height: 2.375rem;
 }
-.navbar__link_hamburger {
-    margin-right: 33px;
+
+.navbar__item_search {
+    padding-top: 0.7rem;
+    width: 1.93rem; 
+    height: 2rem;
+}
+
+.navbar__item_hamburger {
+    padding-top: 0.75rem;
+    width: 2rem; 
+    height: 1.4375rem;
+    margin-right: 1.5625rem;
+}
+
+.navbar__item_profile {
+    padding-top: 0.5rem;
+    margin-right: 2.625rem;
+    width: 1.8125rem; 
+    height: 1.8125rem;
+}
+
+.navbar__item_basket {
+    padding-top: 0.5rem;
+    width: 2rem; 
+    height: 1.8125rem;
+}
+
+.navbar__icon {
+    fill: #E8E8E8;
+    
+}
+
+.navbar__icon:hover {
+    fill: #F16D7F;
 }

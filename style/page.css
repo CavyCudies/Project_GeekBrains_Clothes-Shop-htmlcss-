@@ -1,35 +1,39 @@
 /* Add a font style*/
 
 @font-face {
-    font-family: 'Lato';
+    font-family: "Lato";
     font-style: normal;
-    font-weight: normal;
-    src: local('Lato'),
-         url('../fonts/Lato-Regular.ttf') format('ttf'),
+    font-display: swap;
+    font-weight: 400;
+    src: local("Lato"),
+         url("../fonts/Lato-Regular.ttf") format("ttf"),
         }
 
 @font-face {
-    font-family: 'Lato-Light';
+    font-family: "Lato";
     font-style: normal;
+    font-display: swap;
     font-weight: 300;
-    src: local('Lato-Light'),
-         url('../fonts/Lato-Light.ttf') format('ttf'),
+    src: local("Lato-Light"),
+         url("../fonts/Lato-Light.ttf") format("ttf"),
         }
 
 @font-face {
-    font-family: 'Lato-Bold';
+    font-family: "Lato";
     font-style: normal;
+    font-display: swap;
     font-weight: 700;
-    src: local('Lato-Bold'),
-         url('../fonts/Lato-Bold.ttf') format('ttf'),
+    src: local("Lato-Bold"),
+         url("../fonts/Lato-Bold.ttf") format("ttf"),
         }
 
 @font-face {
-    font-family: 'Lato-Black';
+    font-family: "Lato";
     font-style: normal;
+    font-display: swap;
     font-weight: 900;
-    src: local('Lato-Black'),
-         url('../fonts/Lato-Black.ttf') format('ttf'),
+    src: local("Lato-Black"),
+         url("../fonts/Lato-Black.ttf") format("ttf"),
         }
 
 /* minireset.css v0.0.3 | MIT License | github.com/jgthms/minireset.css */
