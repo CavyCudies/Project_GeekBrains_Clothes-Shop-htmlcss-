@@ -1,0 +1,40 @@
+.offer-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 31.5%;
+    height: 20rem;
+    background: center / cover no-repeat;
+}
+
+.offer-card__headings {
+    text-align: center;
+}
+
+.offer-card__headings > .h-6 {
+    font-weight: 300;
+}
+
+.offer-card__title {
+    display: block;
+}
+
+
+.offer-card_men {
+    background: url('../image/Men-offer_pic.png');
+}
+
+.offer-card_women {
+    background: url('../image/Women-offer_pic.png');
+}
+
+.offer-card_kids {
+    background: url('../image/Kids-offer_pic.png');
+}
+
+.offer-card_accessories {
+    height: 15rem;
+    width: 100%;
+    margin-top: 2rem;
+    background: url('../image/accesories-offer_pic.png');
+}

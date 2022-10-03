@@ -1,7 +1,11 @@
 .product-card {
-    width: 360px;
+    width: 31.5%;
     background-color: #F8F8F8;
     margin-bottom: 30px;
+}
+
+.product-card__info {
+    padding-left: 1.5rem;
 }
 
 .product-card__img {
@@ -9,30 +13,17 @@
 }
 
 .product-card__title {
-    font-weight: 400;
     font-size: 0.93rem;
-    line-height: 1rem;
-    color: #000000;
-    margin-bottom: 0.7906rem;
-    padding-left: 1.125rem;
-
+    margin-bottom: 1rem;
 }
 
 .product-card__subtitle {
     font-weight: 300;
     font-size: 1rem;
-    line-height: 1.0625rem;
-    color: #5D5D5D;
-    margin-bottom: 1.125rem;
-    padding-left: 1.0288rem;
-    padding-right: 1.8rem;
+    margin-bottom: 1rem;
 }
 
 .product-card__price {
-    font-weight: 400;
-    font-size: 1.14rem;
-    line-height: 1.1875rem;
-    color: #F16D7F;
-    margin-bottom: 1.25rem;
-    padding-left: 1.125rem; 
+    font-size: 1.15rem;
+    margin-bottom: 1rem;
 }

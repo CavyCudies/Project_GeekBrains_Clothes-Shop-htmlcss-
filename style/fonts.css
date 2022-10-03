@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: local("Lato"), url("../fonts/Lato-Regular.ttf") format("ttf")
+}
+
+@font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 300;
+    src: local("Lato-Light"), url("../fonts/Lato-Light.ttf") format("ttf")
+}
+
+@font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 700;
+    src: local("Lato-Bold"), url("../fonts/Lato-Bold.ttf") format("ttf")
+}
+
+@font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 900;
+    src: local("Lato-Black"), url("../fonts/Lato-Black.ttf") format("ttf")
+}
+
+html {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #222222;
+}
+
+.h-1 {
+    font-size: 3.5rem;
+    line-height: 4rem;
+    font-weight: 900;
+}
+
+.h-2 {
+    font-size: 3rem;
+    line-height: 3.5rem;
+}
+
+.h-3 {
+    font-size: 2.5rem;
+    line-height: 3rem;
+}
+
+.h-4 {
+    font-size: 2rem;
+    line-height: 2.5rem;
+}
+
+.h-5 {
+    font-size: 1.75rem;
+    line-height: 2.25rem;
+}
+
+.h-6 {
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+
+.p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 300;
+}
+
+.text_pink {
+    color: #F16D7F;
+}
+
+.text_white {
+    color: #FFFFFF;
+}
