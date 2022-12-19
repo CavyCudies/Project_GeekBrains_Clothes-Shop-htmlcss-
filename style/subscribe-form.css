@@ -1,0 +1,22 @@
+.subscribe-form {
+    display: flex;  
+    padding-top: 1.6875rem;
+}
+
+.subscribe-form__btn {
+    border: 1px solid #F16D7F; 
+    border-top-right-radius: 1.375rem;
+    border-bottom-right-radius: 1.375rem;
+    width: 6.25rem;
+    height: 3.0825rem;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.0625rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #F16D7F;
+    color: #FFFFFF;
+    padding-left: 0.9375rem;   
+}

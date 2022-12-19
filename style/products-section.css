@@ -1,0 +1,16 @@
+.products-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.products-section__header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.products-section__cards {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,8 @@
+.footer, .footer__bottom {
+    background-color: #222224;
+}
+
+.footer__bottom {
+    display: flex;
+    justify-content: space-between;
+}

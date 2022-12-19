@@ -1,0 +1,19 @@
+.subscribe-block {
+    padding-top: 9.375rem;
+    margin-right: 6.0625rem;
+}
+
+.subscribe-block__title {
+    font-weight: 700;
+    font-size: 1.71rem;
+    color: #222224;
+    text-align: center;
+}
+
+.subscribe-block__title_size_small {
+    font-weight: 400;
+    font-size: 1.28rem;
+    line-height: 0.9375rem;
+    color: #222224;
+    text-align: center;
+}

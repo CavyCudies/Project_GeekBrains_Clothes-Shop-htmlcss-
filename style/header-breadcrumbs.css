@@ -1,0 +1,16 @@
+.header-breadcrumbs {
+    height: 12.25rem;
+    display: flex;
+    justify-content: space-between;
+    background-color: #F1E4E6;
+    margin-bottom: 3.4875rem;
+}
+
+
+.header-breadcrumbs__title {
+    font-weight: 400;
+    font-size: 1.7rem;
+    line-height: 1.8125rem;
+    color: #F16D7F;
+    padding-top: 4.6875rem;
+}

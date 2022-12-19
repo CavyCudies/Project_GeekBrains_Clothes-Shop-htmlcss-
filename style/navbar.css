@@ -1,0 +1,37 @@
+.navbar {
+    background-color: #222222;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    z-index: 99;
+}
+
+.navbar__items {
+    display: flex;
+}
+
+.navbar__item {
+    display: flex;
+    align-items: center;
+    margin-right: 2.5rem;
+}
+
+.navbar__item:last-of-type {
+    margin-right: 0;
+}
+
+.navbar__icon {
+    fill: #E8E8E8;
+    width: 2rem;
+}
+
+.icon_logo{
+    width: 3.5rem;
+}
+
+.navbar__icon:hover {
+    fill: #F16D7F;
+}
